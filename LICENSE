@@ -1,12 +1,16 @@
-Copyright (C) 2006, 2019 by Rob Landley <rob@landley.net>
+                       Flow Public Licence
+                    Version 1       2023/2/22
 
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
+ Copyright (C) 2023 NotMonika and Overflow Linux Devolompent Team(https://github.com/OverflowLinux)
+ 
+ The Original Licence File Is Here : https://github.com/OverflowLinux/FPL
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document with original file link, and changing it is allowed as long
+ as the name is changed.
+ 
+ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ 
+ 1.The secondary publisher shall be responsible for the problems of any secondary release version.
+ 2.The second released version can be released under any open source agreement, but cannot be used commercially.
+ 3.The third release follows the open source agreement of the second release.
