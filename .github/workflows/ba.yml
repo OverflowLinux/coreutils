@@ -19,15 +19,11 @@ jobs:
       run: |
         cd root/host/fs
         zip -ry root.zip ./*
-    - name: Create Release and Upload Release Asset
-      uses: softprops/action-gh-release@v1
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v3.1.2
       with:
-        tag_name: ab
-        name: Auto Build
-        body: ab
-        draft: false
-        prerelease: true
-        files: |
-          root.zip
-          LICENSE 
+        # Artifact name
+        name: autobuild
+        # A file, directory or wildcard pattern that describes what to upload
+        path: root.zip
     
