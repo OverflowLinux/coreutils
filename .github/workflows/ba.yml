@@ -28,6 +28,6 @@ jobs:
         draft: false
         prerelease: true
         files: |
-          root/host/fs/root.zip
+          root.zip
           LICENSE 
     
